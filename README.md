@@ -1,5 +1,4 @@
 ## hi 👋
----
 
 ### About me
 - System engineering student in my ninth semester.
@@ -18,5 +17,5 @@
 - DevOps basics
 
 ### Socials
+- Email: 20210109@aloe.ulima.edu.pe
 - Discord: @verdigris01
-- Twitter: @verdigris_01
