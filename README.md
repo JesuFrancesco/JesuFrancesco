@@ -1,16 +1,22 @@
-## Hi there 👋
+## hi 👋
+---
 
-<!--
-**JesuFrancesco/JesuFrancesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- System engineering student in my ninth semester.
+- 🇵🇪
 
-Here are some ideas to get you started:
+### Languages
+- ES
+- EN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- Web development
+- Mobile development
+
+### Currently learning
+- Machine Learning topics
+- DevOps basics
+
+### Socials
+- Discord: @verdigris01
+- Twitter: @verdigris_01
