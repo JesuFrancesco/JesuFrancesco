@@ -1,7 +1,7 @@
 ## hi 👋
 
 ### About me
-- System engineering student in my ninth semester.
+- System engineering student in my eighth semester.
 - 🇵🇪
 
 ### Languages
