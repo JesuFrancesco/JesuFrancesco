@@ -2,15 +2,15 @@
 
 ### About me
 - System engineering student in my eighth semester.
-- 🇵🇪
+- 20 years old | 🇵🇪
 
 ### Languages
 - ES
 - EN
 
 ### Experience
-- Web development
-- Mobile development
+- Full Stack web dev
+- Android dev
 
 ### Currently learning
 - Machine Learning topics
