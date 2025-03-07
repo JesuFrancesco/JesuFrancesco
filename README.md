@@ -2,7 +2,7 @@
 
 ### About me
 - System engineering student in my eighth semester.
-- 20 years old | 🇵🇪
+- 21 years old | 🇵🇪
 
 ### Languages
 - ES
